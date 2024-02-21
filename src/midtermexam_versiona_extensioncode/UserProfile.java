@@ -15,7 +15,8 @@ package midtermexam_versiona_extensioncode;
  */
 public class UserProfile 
 {
-    
+    //My Name is Gurkirat Singh
+    //I am studying in the computer programming course
     private String userID;//the userID
     private String genre;// the user's preferred genre of movie
     private String[] genres = {"Comedy", "Drama", "Action", "Mystery"};//available genres of movies
